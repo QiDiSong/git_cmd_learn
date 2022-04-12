@@ -1,0 +1,4 @@
+.idea
+*.log
+/venv
+git_cmd_learn/
